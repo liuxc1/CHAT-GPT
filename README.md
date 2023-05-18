@@ -31,11 +31,11 @@
 <body>
     <div class="row">
     <div class="col">
-    <img src="https://img.ltn.com.tw/Upload/news/600/2021/06/12/phpFXy6wL.jpg" alt="Example Image" />
+    <img src="https://github.com/liuxc1/CHAT-GPT/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230516164135.jpg" alt="Example Image" />
     <figcaption>Example Title</figcaption>
     </div>
     <div class="col">
-    <img src="https://img.ltn.com.tw/Upload/liveNews/BigPic/600_phpxdGJxE.jpg" alt="Example Image" />
+    <img src="https://github.com/liuxc1/CHAT-GPT/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230516164135.jpg" alt="Example Image" />
     <figcaption>Example Title</figcaption>
     </div>
     </div>
