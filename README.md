@@ -18,6 +18,32 @@
     从那时起，你成为了我心底永远的牵挂，每一刻都想与你分享我的喜怒哀乐。
     在茫茫人海里能够与你相遇，是上天对我的恩赐，我会珍惜这份缘分，陪你一路走来，直到永远。
     请留下你的脚印，哈哈哈。
- ![Image text](https://github.com/liuxc1/CHAT-GPT/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230516164135.jpg)
+    
+ <img src="https://github.com/liuxc1/CHAT-GPT/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230516164135.jpg" alt="Example Image" width=300>
+ 
  # 参与贡献
-  ![Image text](https://github.com/liuxc1/CHAT-GPT/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230518101134.jpg)
+ 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Page Title Here</title>
+  <link rel="stylesheet" type="text/css" href="your-stylesheet.css">
+</head>
+<body>
+  <h1>Your Heading Here</h1>
+  <p>Your paragraph text here.</p>
+</body>
+</html>
+
+<div style="list-style:none;">
+  <ul style="list-style-type: none;">
+      <li style="list-style-type: none;">
+      <img src="https://github.com/liuxc1/CHAT-GPT/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230518101134.jpg" alt="Example Image" width=150>
+      <div>白日梦想家</div>
+    </li>
+    <li>
+      <img src="https://github.com/liuxc1/CHAT-GPT/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230518101134.jpg" alt="Example Image" width=150>
+      <div>白日梦想家</div>
+          </li>
+    </ul>
+</div>
