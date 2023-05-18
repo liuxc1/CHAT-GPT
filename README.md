@@ -26,24 +26,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Your Page Title Here</title>
   <link rel="stylesheet" type="text/css" href="your-stylesheet.css">
 </head>
 <body>
-  <h1>Your Heading Here</h1>
-  <p>Your paragraph text here.</p>
+    <div class="row">
+    <div class="col">
+    <img src="https://img.ltn.com.tw/Upload/news/600/2021/06/12/phpFXy6wL.jpg" alt="Example Image" />
+    <figcaption>Example Title</figcaption>
+    </div>
+    <div class="col">
+    <img src="https://img.ltn.com.tw/Upload/liveNews/BigPic/600_phpxdGJxE.jpg" alt="Example Image" />
+    <figcaption>Example Title</figcaption>
+    </div>
+    </div>
 </body>
 </html>
-
-<div style="list-style:none;">
-  <ul style="list-style-type: none;">
-      <li style="list-style-type: none;">
-      <img src="https://github.com/liuxc1/CHAT-GPT/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230518101134.jpg" alt="Example Image" width=150>
-      <div>白日梦想家</div>
-    </li>
-    <li>
-      <img src="https://github.com/liuxc1/CHAT-GPT/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230518101134.jpg" alt="Example Image" width=150>
-      <div>白日梦想家</div>
-          </li>
-    </ul>
-</div>
