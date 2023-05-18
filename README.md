@@ -22,10 +22,6 @@
  <img src="https://github.com/liuxc1/CHAT-GPT/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230516164135.jpg" alt="Example Image" width=300>
  
  # 参与贡献
- 
-<div style="display: flex;flex-wrap: wrap;justify-content: center;">
-  <div style="flex: 1; margin: 10px;">
-    <img src="https://github.com/liuxc1/CHAT-GPT/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230516164135.jpg" alt="your-image-description-here" width=150/>
-    <figcaption>Your Image Title Here</figcaption>
-  </div>
-</div>
+ <div align="left">
+  <img src="https://github.com/liuxc1/CHAT-GPT/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230518101134.jpg" alt="白日梦想家" title="白日梦想家" width=150/> 
+ </div>
