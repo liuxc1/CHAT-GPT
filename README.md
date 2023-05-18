@@ -20,4 +20,4 @@
     请留下你的脚印，哈哈哈。
  ![Image text](https://github.com/liuxc1/CHAT-GPT/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230516164135.jpg)
  # 参与贡献
- 
+  ![Image text](https://github.com/liuxc1/CHAT-GPT/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230518101134.jpg)
