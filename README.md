@@ -23,21 +23,9 @@
  
  # 参与贡献
  
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="https://github.com/liuxc1/CHAT-GPT/blob/main/style.css">
-</head>
-<body>
-    <div class="row">
-    <div class="col">
-    <img src="https://github.com/liuxc1/CHAT-GPT/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230516164135.jpg" alt="Example Image" />
-    <figcaption>Example Title</figcaption>
-    </div>
-    <div class="col">
-    <img src="https://github.com/liuxc1/CHAT-GPT/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230516164135.jpg" alt="Example Image" />
-    <figcaption>Example Title</figcaption>
-    </div>
-    </div>
-</body>
-</html>
+<div style="display: flex;flex-wrap: wrap;justify-content: center;">
+  <div style="flex: 1; margin: 10px;">
+    <img src="https://github.com/liuxc1/CHAT-GPT/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230516164135.jpg" alt="your-image-description-here" width=150/>
+    <figcaption>Your Image Title Here</figcaption>
+  </div>
+</div>
