@@ -26,7 +26,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" type="text/css" href="your-stylesheet.css">
+  <link rel="stylesheet" type="text/css" href="https://github.com/liuxc1/CHAT-GPT/blob/main/style.css">
 </head>
 <body>
     <div class="row">
